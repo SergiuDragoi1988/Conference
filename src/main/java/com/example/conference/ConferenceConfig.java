@@ -8,7 +8,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 @Configuration
 public class ConferenceConfig {
-    
+
 
     @Bean
     public ViewResolver viewResolver(){
